@@ -391,7 +391,7 @@ Which cloud provider is known for Google Drive and Gmail?
 * C. Microsoft
 * D. None of the above
 
-<details><summary>Click to see the answer</summary><b>Answer: B</b></details>
+<details><summary>Click to see the answer</summary><b>Answer: d</b></details>
 
 ---
 
