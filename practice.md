@@ -404,7 +404,7 @@ What is an example of cloud storage?
 * C. USB Drive
 * D. Google Drive
 
-<details><summary>Click to see the answer</summary><b>Answer: D</b></details>
+<details><summary>Click to see the answer</summary><b>Answer: b</b></details>
 
 ---
 
