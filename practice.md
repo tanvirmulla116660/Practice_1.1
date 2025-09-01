@@ -313,7 +313,7 @@ Which of these is a virtualization software?
 * C. Linux
 * D. Docker
 
-<details><summary>Click to see the answer</summary><b>Answer: B</b></details>
+<details><summary>Click to see the answer</summary><b>Answer: D</b></details>
 
 ---
 
